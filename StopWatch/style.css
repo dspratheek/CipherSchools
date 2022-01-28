@@ -1,0 +1,23 @@
+#Wrapper{
+    text-align: center;
+    /*background-color: #9932CC;*/
+}
+
+#Start-button, 
+#Stop-button, 
+#Reset-button{
+    padding: 5px 13px;
+    margin: 5px;
+    border: 1px solid;
+    margin: 15px;
+}
+
+#Start-button{
+    background-color: #FFEBCD;
+}
+#Stop-button{
+    background-color:#FFEBCD;
+}
+#Reset-button{
+    background-color:#FFEBCD;
+}
